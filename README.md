@@ -2,6 +2,8 @@
 
 Compositor is an advanced Blender addon designed for 4.2+ versions, providing powerful cinematography composition tools for scientific visualization and 3D artists. While primarily focused on scientific applications, it's versatile enough for various artistic projects. This addon is optimized to work seamlessly with other SciBlend addons, creating a comprehensive suite for scientific 3D visualization and animation.
 
+![simplescreenrecorder-2024-09-12_22 56 07-ezgif com-video-to-gif-converter (1)](https://github.com/user-attachments/assets/1c8c7fac-9b53-4b23-b8c8-6eb4b483224b)
+
 ## Table of Contents
 
 1. [Requirements](#requirements)
