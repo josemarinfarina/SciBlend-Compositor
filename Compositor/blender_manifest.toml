@@ -1,0 +1,16 @@
+schema_version = "1.0.0"
+id = "sciblend_compositor"
+version = "1.0.0"
+name = "SciBlend-Compositor"
+author = "José Marín"
+tagline = "Cinematography composition tools"
+description = """
+v.1.0.0
+
+Compositor provides cinematography composition tools for Blender.
+"""
+blender_version_min = "4.2.0"
+license = ["GPL-3.0-or-later"]
+tags = ["Cinematography", "Compositing", "Camera", "Render"]
+type = "add-on"
+maintainer = "José Marín <marinfarinajose@gmail.com>"
